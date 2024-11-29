@@ -1,0 +1,6 @@
+pelican
+markdown[extra]
+beautifulsoup4
+typogrify
+pelican-katex
+# Add any other required packages
